@@ -1,0 +1,103 @@
+.navbar {
+  background-color:#F08FC0 ;
+}
+  
+.nav-link, .nav-brand {
+  color:#FFBCBC ;
+cursor: pointer;
+}
+
+.navbar-link {
+  margin-right:1em;
+}
+
+.navbar-brand {
+  margin-left: 1em;
+}
+
+.navbar-toggler{
+  background-color:white;
+margin-right:3%
+}
+
+.navbar-collapse {
+  margin-left: 1em;
+}
+
+.header{
+  width:1000px;
+  height:200px;
+  border-style:groove;
+  background-color:rgb(12,100,198);
+  background-image:url( " Barbiedoll.jpg"  );
+  margin-top:80px;
+  background-repeat:no-repeat;
+}
+
+.linkspart{
+  width:1000PX;
+  height:30px;
+  border-style:groove;
+  margin-top:5px;
+  background-color:rgb(12,100,198);
+}
+
+
+.page {
+  width:800px;
+  height:auto;
+  border-style:groove;
+}
+.linkspart a  {
+  color:rgb(245,246,251);
+}
+.linkspart a:hover {
+  background-color:rgb(12,100,198
+   );
+   color:rgb(245,246,251);
+}
+.bodypart {
+  width:1000px;
+  height:600px;
+  border-style:groove;
+  margin-top:5px;
+}
+.bodypart .imagepart {
+ width:570px;
+ height:250px;
+ border-style:groove;
+ background-image:url(" images (1).jpeg");
+ background-repeat:no-repeat;
+display:inline-block;
+}
+.bodypart .newspart{
+  width: 200px;
+  height: 400px;
+  
+  float:right;
+  
+}
+.bodypart .newspart h2{
+  color:green;
+  margin-left:10px;
+  margin-top:10px;
+}
+.bodypart .newspart .news{
+  width: 200px;
+  height: 490px;
+  border-style:groove;
+}
+.bodypart .newspart .news h4 {
+color: blue;
+}
+.bodypart h3{
+  color: blue;
+  text-align:center;
+}
+.footerpart{
+  width:1000px ;
+  height:25px;
+  margin-top: 5px;
+  background-color:rgb(12,100,198);
+  border-style:groove;
+}
